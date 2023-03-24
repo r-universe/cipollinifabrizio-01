@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TAQMNGR"]
+	path = TAQMNGR
+	url = https://github.com/cran/TAQMNGR
+	shallow = true
+	registered = true
